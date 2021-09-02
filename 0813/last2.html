@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Selector Basic</title>
+    <style>
+        input[type=checkbox]:checked + div {
+            height: 0px;
+        }
+        div {
+            overflow: hidden;
+            width: 650px; height: 300px;
+            /* 변환 효과를 적용합니다. */
+            transition-duration: 1s;
+        }
+    </style>
+</head>
+<body>
+    <input type="checkbox" />
+    <div>
+        <h1>Lorem ipsum</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+</body>
+</html>

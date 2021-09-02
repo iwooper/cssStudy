@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Div Table</title>
+    </head>
+    <style>
+        .table {
+            display: table;
+            width: 100%;
+        }
+        .table-row {
+            display: table-row;
+        }
+        .table-cell {
+            display: table-cell;
+            padding: 0px 20px;
+            height: 150px;
+            border: 5px solid lightgray;
+        }
+        .top {
+            vertical-align: top;
+        }
+        .middle {
+            vertical-align: middle;
+        }
+        .bottom {
+            vertical-align: bottom;
+        }
+    </style>
+    <body>
+        <div class="table">
+            <div class="table-row">
+                <div class="table-cell">칸1-1</div>
+                <div class="table-cell">칸1-2</div>
+                <div class="table-cell">칸1-3</div>
+            </div>
+            <div class="table-row">
+                <div class="table-cell top">칸2-1</div>
+                <div class="table-cell middle">칸2-2</div>
+                <div class="table-cell bottom">칸2-3</div>
+            </div>
+        </div>
+    </body>
+</html>
