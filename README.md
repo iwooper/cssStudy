@@ -1,6 +1,6 @@
 # cssStudy
 
-*** CSS °³³ä & ¼±ÅÃÀÚ (0810)
+*** CSS ê°œë… & ì„ íƒì (0810)
 https://docs.google.com/presentation/d/1cAbqBd9FL-nzVIJ3JiP6qle_y982wgQ6YelrgJ-dxzU/edit?usp=sharing
 
-*** CSS °³³ä (1)
+*** CSS ê°œë… (1)
